@@ -1,0 +1,8 @@
+apiVersion: v2
+name: containers-registry
+version: 0.1.0
+description: Docker-registry
+icon: "http://alexstorm.solenopsys.org/apps/assets/docker-registry.svg"
+
+
+
