@@ -1,4 +1,4 @@
-# Docker containers module for SoftConverged
+# Docker containers registry module for SoftConverged
 
 ### Build
 sh build.sh
