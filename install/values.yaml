@@ -2,6 +2,8 @@ replicasCount: 1
 fullName: "containers-registry"
 selectorLabel: "containers-registry"
 
+domain: "registry.solenopsys.org"
+
 service:
   port: 5000
   nodePort: 31320
