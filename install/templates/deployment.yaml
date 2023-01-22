@@ -14,7 +14,6 @@ spec:
         app: {{ .Values.fullName}}
         type: hStreamNode
         hsServiceName: registry
-        hsID: "7"
     spec:
       containers:
         - name: {{ .Values.containers.registry.name}}
