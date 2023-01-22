@@ -7,7 +7,6 @@ helm_build_push(){
   curl --data-binary "@${FN}" http://helm.solenopsys.org/api/charts
 }
 
-REGISTRY=registry.solenopsys.org
 NAME=containers-registry
 ARCHS="linux/amd64,linux/arm64"
 VER=0.1.1
